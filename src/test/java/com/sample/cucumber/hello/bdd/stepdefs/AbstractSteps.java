@@ -1,6 +1,6 @@
-package com.arun.cucumber.hello.bdd.stepdefs;
+package com.sample.cucumber.hello.bdd.stepdefs;
 
-import com.arun.cucumber.hello.bdd.CucumberTestContext;
+import com.sample.cucumber.hello.bdd.CucumberTestContext;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;

@@ -1,4 +1,4 @@
-package com.arun.cucumber.hello.employee;
+package com.sample.cucumber.hello.employee;
 
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;

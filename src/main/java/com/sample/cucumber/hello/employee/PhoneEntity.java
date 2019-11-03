@@ -1,4 +1,4 @@
-package com.arun.cucumber.hello.employee;
+package com.sample.cucumber.hello.employee;
 
 import java.io.Serializable;
 import javax.persistence.Entity;

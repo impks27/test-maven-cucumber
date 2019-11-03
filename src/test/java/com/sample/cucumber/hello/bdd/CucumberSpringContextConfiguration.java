@@ -1,6 +1,6 @@
-package com.arun.cucumber.hello.bdd;
+package com.sample.cucumber.hello.bdd;
 
-import com.arun.cucumber.hello.Application;
+import com.sample.cucumber.hello.Application;
 import cucumber.api.java.Before;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

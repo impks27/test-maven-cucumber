@@ -1,10 +1,10 @@
-package com.arun.cucumber.hello.bdd.stepdefs;
+package com.sample.cucumber.hello.bdd.stepdefs;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.fail;
 
-import com.arun.cucumber.hello.employee.Employee;
-import com.arun.cucumber.hello.employee.Phone;
+import com.sample.cucumber.hello.employee.Employee;
+import com.sample.cucumber.hello.employee.Phone;
 import cucumber.api.java8.En;
 import io.cucumber.datatable.DataTable;
 import io.restassured.response.Response;

@@ -1,4 +1,4 @@
-package com.arun.cucumber.hello.bdd;
+package com.sample.cucumber.hello.bdd;
 
 import cucumber.api.junit.Cucumber;
 import java.io.File;

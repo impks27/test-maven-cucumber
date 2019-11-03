@@ -1,4 +1,4 @@
-package com.arun.cucumber.hello.bdd;
+package com.sample.cucumber.hello.bdd;
 
 import static java.util.Locale.ENGLISH;
 
